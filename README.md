@@ -65,7 +65,7 @@
 ---
 ⭐️ From [Yurika-Kan](https://github.com/Yurika-Kan)
 
-currently taking section? 
+<!--currently taking section? -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
