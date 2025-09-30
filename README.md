@@ -1,6 +1,8 @@
-![Banner](https://camo.githubusercontent.com/e09012c164942eb846524af8cbea063e07297c1d0f9c5846dd3f2da99ef08f60/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d443942454431266865696768743d3132302673656374696f6e3d686561646572)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=26&duration=2500&pause=600&color=e0d6ff&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Yurika;Full-stack+Software+Developer;Building+with+impact)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+I'm+Yurika+Kan;Full-Stack+Software+Developer;Building+for+Impact" alt="Yurika Kan"/>
+</a>
 
 ---
 
@@ -33,6 +35,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,git,github,gradle,maven,gcp,figma)](https://skillicons.dev)
 
+**Studying:** 
 ---
 
 ## 📌 Featured Projects
@@ -46,14 +49,26 @@
 ## 🌐 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/yurika-kan)  
 - [Portfolio](https://yurikakan.com) *(if you want to add one)*  
-- ✉️ Email: kan.yu@northeastern.edu  
+- ✉️ Email: kan.yu@northeastern.edu
+
+### Connect with me!
+<div>
+    <a href="https://www.linkedin.com/in/yurika-kan/">
+        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+    </a>
+    <a href="mailto:kan.yu@northeastern.edu">
+        <img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="Dev.to" width="37" height="37"/>
+    </a>
+    
+</div>
 
 ---
 ⭐️ From [Yurika-Kan](https://github.com/Yurika-Kan)
 
 currently taking section? 
 
-![Banner](https://camo.githubusercontent.com/be4f89116726974b98e9beef51954c013f590e48a3badbde49f8ab29b7011140/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d443942454431266865696768743d3132302673656374696f6e3d666f6f746572)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+
 <!--
 **Yurika-Kan/Yurika-Kan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
