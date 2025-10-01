@@ -8,8 +8,8 @@
 
 ## 🚀 About Me
 - 🎓 CS & Business student @ Northeastern (Khoury College)
-- 💻 SWE experience: Full-stack, backend, ML, DevOps
-- 🌱 Currently exploring Kolmogorov-Arnold Networks (KANs) + AI/infra
+- 💻 SWE experience: Full-stack, Backend, Frontend, AI, DevOps
+- 🌱 Currently exploring Assembly and C, Computer Visualization
 - 🤝 Love contributing to community + civic tech projects
 
 ---
@@ -62,7 +62,6 @@
     <span>&nbsp; kan.yu@northeastern.edu</span>
   </a>
 </div>
-
 
 
 
