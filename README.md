@@ -47,23 +47,29 @@
 ---
 
 ## 🌐 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/yurika-kan)  
-- [Portfolio](https://yurikakan.com) *(if you want to add one)*  
-- ✉️ Email: kan.yu@northeastern.edu
-
-### Connect with me!
-<div>
-    <a href="https://www.linkedin.com/in/yurika-kan/">
-        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
-    </a>
-    <a href="mailto:kan.yu@northeastern.edu">
-        <img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="Dev.to" width="37" height="37"/>
-    </a>
-    
+<div align="center">
+  <a href="https://www.linkedin.com/in/yurika-kan/">
+    <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea"
+         alt="LinkedIn" width="40" height="40" align="middle" />
+    <span>&nbsp;linkedin.com/in/yurika-kan</span>
+  </a>
 </div>
+
+<div align="center">
+  <a href="mailto:kan.yu@northeastern.edu">
+    <img src="https://github.com/user-attachments/assets/6e6e639f-5f04-456c-8a54-9ebceea956e8"
+         alt="Email" width="35" height="35" align="middle" />
+    <span>&nbsp; kan.yu@northeastern.edu</span>
+  </a>
+</div>
+
+
+
+
 
 ---
 ⭐️ From [Yurika-Kan](https://github.com/Yurika-Kan)
+
 
 <!--currently taking section? -->
 
@@ -77,6 +83,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
