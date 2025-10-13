@@ -10,9 +10,12 @@
 ## 🔮 About Me 
 - 📚 CS & Business Junior @ Northeastern (Khoury College)
 - 👩🏻‍💻 SWE experience: Full-stack, Backend, Frontend, AI, DevOps
-- 🌱 Currently exploring Assembly and C, Computer Visualization
 - 💌 Love contributing to community + impactful projects
 
+---
+
+**Studying:** 
+- 🌱 Currently exploring Computer Visualization in Movement Science Research & learning Assembly and C in Systems
 ---
 
 ## 🔧 Tech Stack
@@ -36,15 +39,15 @@
 
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,git,github,gradle,maven,gcp,figma)](https://skillicons.dev)
 
-**Studying:** 
 ---
 
 ## 📌 Featured Projects
 - **[RAGuardian](https://github.com/Yurika-Kan/RAGuardian)** – Full-stack RAG benchmarking platform (FastAPI, Docker, Grafana, HuggingFace, pgvector)  
 - **[HomeBase](https://github.com/Yurika-Kan/HomeBase)** – Real estate analytics server (Java, PostgreSQL, Redis, Kafka)  
-- **[Momentum](https://github.com/Yurika-Kan/-momentum-)** – Mentor-matching platform (Next.js, Prisma, Groq AI)  
-- **[Navimental](https://github.com/Yurika-Kan/Navimental)** – Mental-health startup site revamp (Next.js + Contentful)
-
+- **[Momentum](https://github.com/Yurika-Kan/-momentum-)** – Mentor-matching platform (Next.js, Prisma, Groq AI)
+- **[New England First Amendment Coalition](https://nefac.org/)** – Civic advocacy site (Next.js, TypeScript, FaustWP)
+- **[Navimental](https://navimental.com/)** – Mental-health startup site revamp (Next.js, Contentful)
+- **[NEU Student Government Association](https://www.northeasternsga.com/)** – Redeveloping & building internal tool SGA site to be self (React, MongoDB, JavaScript)
 ---
 
 ## 🌐 Connect With Me
@@ -63,8 +66,6 @@
     <span>&nbsp; kan.yu@northeastern.edu</span>
   </a>
 </div>
-
-
 
 
 ---
