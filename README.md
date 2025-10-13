@@ -4,13 +4,14 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+I'm+Yurika+Kan!;Full-Stack+Software+Developer;Building+for+Impact" alt="Yurika Kan"/>
 </a>
 
+
 ---
 
-## 🚀 About Me
-- 🎓 CS & Business student @ Northeastern (Khoury College)
-- 💻 SWE experience: Full-stack, Backend, Frontend, AI, DevOps
+## 🔮 About Me 
+- 📚 CS & Business Junior @ Northeastern (Khoury College)
+- 👩🏻‍💻 SWE experience: Full-stack, Backend, Frontend, AI, DevOps
 - 🌱 Currently exploring Assembly and C, Computer Visualization
-- 🤝 Love contributing to community + civic tech projects
+- 💌 Love contributing to community + impactful projects
 
 ---
 
