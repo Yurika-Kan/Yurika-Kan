@@ -42,7 +42,7 @@
 ## 📌 Featured Projects
 - **[RAGuardian](https://github.com/Yurika-Kan/RAGuardian)** – Full-stack RAG benchmarking platform (FastAPI, Docker, Grafana, HuggingFace, pgvector)  
 - **[HomeBase](https://github.com/Yurika-Kan/HomeBase)** – Real estate analytics server (Java, PostgreSQL, Redis, Kafka)  
-- **[Momentum](https://github.com/Yurika-Kan/Momentum)** – Mentor-matching platform (Next.js, Prisma, Groq AI)  
+- **[Momentum](https://github.com/Yurika-Kan/-momentum-)** – Mentor-matching platform (Next.js, Prisma, Groq AI)  
 - **[Navimental](https://github.com/Yurika-Kan/Navimental)** – Mental-health startup site revamp (Next.js + Contentful)
 
 ---
