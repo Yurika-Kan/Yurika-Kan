@@ -20,7 +20,7 @@
 ## 🔧 Tech Stack
 **Languages:** 
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,ts,js,tailwind,html,css,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,ts,js,tailwind,html,css,c)](https://skillicons.dev)
 
 
 
