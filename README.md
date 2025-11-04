@@ -7,14 +7,14 @@
 ---
 
 ## 🔮 About Me 
-- 📚 CS & Business Junior @ Northeastern (Khoury College)
-- 👩🏻‍💻 SWE experience: Full-stack, Backend, Frontend, AI, DevOps
+- 📚 Computer Science & Business Junior @ Northeastern (Khoury College)
+- 👩🏻‍💻 SWE experience: Full-stack, AI, Backend, Frontend, DevOps
 - 💌 Love contributing to community + impactful projects
 
 ---
 
 **Studying:** 
-- 🌱 Currently exploring Computer Visualization in Movement Science Research & learning Assembly and C in Systems
+- 🌱 Currently researching Computer Vision in Movement Science & learning Assembly and C in Systems
 ---
 
 ## 🔧 Tech Stack
