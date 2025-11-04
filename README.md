@@ -46,7 +46,7 @@
 - **[Momentum](https://github.com/Yurika-Kan/-momentum-)** – Mentor-matching platform (Next.js, Prisma, Groq AI)
 - **[New England First Amendment Coalition](https://nefac.org/)** – Civic advocacy site (Next.js, TypeScript, FaustWP)
 - **[Navimental](https://navimental.com/)** – Mental-health startup site revamp (Next.js, Contentful)
-- **[NEU Student Government Association](https://www.northeasternsga.com/)** – Redeveloping & building internal tool SGA site to be self hosted (React, MongoDB, JavaScript)
+- **[NEU Student Government Association](https://www.northeasternsga.com/)** – Redevelopment & enhancement of SGA site for internal & external users (React, MongoDB, JavaScript)
 ---
 
 ## 🌐 Connect With Me
